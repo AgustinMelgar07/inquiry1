@@ -1,0 +1,3 @@
+export * as InquiryAdapter from './inquiry.adapter'
+export * as InquiryService from './inquiry.service'
+export * as InquiryModel from './inquiry.model'
